@@ -97,16 +97,9 @@ Models were ranked by F1 score. The top 5 were submitted.
 │
 ├── dataset_C_training.csv         ← Training data (with target column)
 ├── dataset_C_testing.csv          ← Test data (no target column)
-├── dataset_C_example_submission.csv ← Example of what submission should look like
 │
 ├── UH_GROUP_X.ipynb               ← Main notebook with all our code
 │
-└── submissions/
-    ├── challenge_submission_group_X_order_1_*.csv   ← Best model predictions
-    ├── challenge_submission_group_X_order_2_*.csv
-    ├── challenge_submission_group_X_order_3_*.csv
-    ├── challenge_submission_group_X_order_4_*.csv
-    └── challenge_submission_group_X_order_5_*.csv   ← 5th best model predictions
 ```
 
 ---
