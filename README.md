@@ -1,4 +1,4 @@
-# RMDS Hackathon — Covid Vaccine Prediction 🏆
+# RMDS Hackathon — Covid Vaccine Prediction 
 
 **University of Hertfordshire | Group X**
 
