@@ -86,8 +86,6 @@ We ranked all models by F1 score and submitted the **top 5** predictions for the
 
 Models were ranked by F1 score. The top 5 were submitted.
 
-> *(Exact scores will be updated after the hackathon results are released)*
-
 ---
 
 ## Files in This Repository
@@ -131,8 +129,3 @@ datapath2 = "https://raw.githubusercontent.com/UH-GROUP-X/Hackathon26/refs/heads
 - `shap` — explainable AI (understanding why the model made each prediction)
 
 ---
-
-
-## Module
-
-RMDS Hackathon — University of Hertfordshire
